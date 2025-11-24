@@ -7,4 +7,4 @@
     </a>
 </p>
 
-<p>customize the static texts in <code>config.conf</code> with your own for further modification, and place the config.conf to <code>~/.config/neofetch/</p>code> (overwrite) </p>
+<p>customize the static texts in <code>config.conf</code> with your own for further modification, and place the config.conf to <code> ~/.config/neofetch/ </code> (overwrite)</p>
